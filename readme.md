@@ -3,7 +3,7 @@
 
 A task and subtask management plugin built to be fast, intuitive and productive. Integrated directly into Acode, it lets you organize your workflow with lists, a calendar and the classic Eisenhower Matrix.
 
-<img src="https://raw.githubusercontent.com/ronilson-users/tasks-acode-cm6/main/assets/icon.png" alt="tasks icon" height="150" width="220" style="border:1px solid #ffe931; margin:4px; border-radius:2px;" />
+<img src="https://raw.githubusercontent.com/ronilson-users/tasks-acode-cm6/main/assets/icon.png" alt="tasks icon" height="350" width="420" style="border:1px solid #ffe931; margin:4px; border-radius:2px;" />
 
 ## 🛠️ Tech Stack
 

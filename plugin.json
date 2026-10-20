@@ -5,13 +5,17 @@
   "version": "1.1.0",
   "readme": "readme.md",
   "icon": "icon.png",
-  "changeLogs":"changeLogs.md",
+  "changeLogs": "changeLogs.md",
   "files": [],
-  "minVersionCode" : 590,
+  "minVersionCode": 292,
   "price": 0,
+  "license": "MIT",
+  "keywords": ["tasks", "manager", "acode"],
+  "changelogs": "changelogs.md",
   "author": {
-    "name": "ronilson.users",
-    "email": "ronilson.stos@gmail.com",
-    "github": "https://github.com/ronilson-users/tasks-acode.git"
+    "name": "Rsj Roni",
+    "email": "example@email.com",
+    "url": "https://github.com/ronilson-users/tasks-acode-cm6",
+    "github": "example"
   }
 }
