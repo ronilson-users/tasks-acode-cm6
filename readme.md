@@ -1,9 +1,11 @@
+<div style="align:center">
+  <img src="https://raw.githubusercontent.com/ronilson-users/tasks-acode-cm6/main/assets/icon.png" alt="tasks icon" height="150" width="150" align="center" style="border:1px solid #fffffff9; margin:4px; border-radius:2px;" />
+
+</div>
 
 # Task Manager Acode
 
 A task and subtask management plugin built to be fast, intuitive and productive. Integrated directly into Acode, it lets you organize your workflow with lists, a calendar and the classic Eisenhower Matrix.
-
-<img src="https://raw.githubusercontent.com/ronilson-users/tasks-acode-cm6/main/assets/icon.png" alt="tasks icon" height="250" width="320" align="center" style="border:1px solid #fffffff9; margin:4px; border-radius:2px;" />
 
 ## 🛠️ Tech Stack
 
@@ -20,18 +22,23 @@ A task and subtask management plugin built to be fast, intuitive and productive.
 
   <figure style="flex:0 0 100%; scroll-snap-align:center; margin:0; text-align:center;">
 
-<img src="https://raw.githubusercontent.com/ronilson-users/tasks-acode-cm6/main/assets/Screenshot_20261002_201117_Acode.jpg" alt="tasks icon" height="150" width="220" style="border:1px solid #ffe931; margin:4px; border-radius:2px;" />
-    <figcaption>1/3 · Provider picker</figcaption>
+<img src="https://raw.githubusercontent.com/ronilson-users/tasks-acode-cm6/main/assets/tasks1.jpg" alt="tasks icon" height="350" width="420" style="margin:4px; border-radius:2px;" />
+    <figcaption>1/4 · Provider picker</figcaption>
   </figure>
 
   <figure style="flex:0 0 100%; scroll-snap-align:center; margin:0; text-align:center;">
-<img src="https://raw.githubusercontent.com/ronilson-users/tasks-acode-cm6/main/assets/Screenshot_20261002_201019_Acode.jpg" alt="tasks icon" height="150" width="220" style="border:1px solid #ffe931; margin:4px; border-radius:2px;" />
-    <figcaption>2/3 · Live model list</figcaption>
+<img src="https://raw.githubusercontent.com/ronilson-users/tasks-acode-cm6/main/assets/tasks2.jpg" alt="tasks icon" height="350" width="420" style="margin:4px; border-radius:2px;" />
+    <figcaption>2/4 · Live model list</figcaption>
   </figure>
   
   <figure style="flex:0 0 100%; scroll-snap-align:center; margin:0; text-align:center;">
-<img src="https://raw.githubusercontent.com/ronilson-users/tasks-acode-cm6/main/assets/Screenshot_20261002_201220_Acode.jpg" alt="tasks icon" height="150" width="220" style="border:1px solid #ffe931; margin:4px; border-radius:2px;" />
-    <figcaption>3/3 · Live model list</figcaption>
+<img src="https://raw.githubusercontent.com/ronilson-users/tasks-acode-cm6/main/assets/tasks3.jpg" alt="tasks icon" height="350" width="420" style="margin:4px; border-radius:2px;" />
+    <figcaption>3/4 · Live model list</figcaption>
+  </figure>
+  
+  <figure style="flex:0 0 100%; scroll-snap-align:center; margin:0; text-align:center;">
+<img src="https://raw.githubusercontent.com/ronilson-users/tasks-acode-cm6/main/assets/tasks3.jpg" alt="tasks icon" height="350" width="420" style="margin:4px; border-radius:2px;" />
+    <figcaption>4/4 · Live model list</figcaption>
   </figure>
 
 </div>
@@ -78,8 +85,10 @@ A task and subtask management plugin built to be fast, intuitive and productive.
 4. Tap the icons to add dates, mark tasks as urgent/important, or open the details to add subtasks.
 
 ## 📦 Changelog
+### **v1.1.1 (Current)**
+ajust readm
+### **v1.1.0**
 
-### **v1.1.0 (Current)**
 
 - **New Views:** Added Calendar and Eisenhower Matrix tabs.
 - **Layout Improvement:** The task name edit field was moved to an action button (pencil) next to the title, saving vertical space on the card.
